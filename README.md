@@ -3,6 +3,10 @@
 
 [<img src="https://media-exp1.licdn.com/dms/image/C4D16AQG_ehXvHIQZRA/profile-displaybackgroundimage-shrink_200_800/0/1644285999927?e=1649894400&v=beta&t=SgbwpOYzZC2fgGNzr9bTBZBdhe054Ug6cnRfc63nfJA" width="1000"/>](https://www.linkedin.com/in/guillermo-pereyra)
 
+## 👉 Sobre mí
+Soy **Desarrollador de Python y SQL en [Telefónica](https://www.telefonica.com/)** y **Administrador de sistemas TI en la empresa [Hierros Casanova](https://www.hierroscasanova.com.ar)**.
+Al mismo tiempo **estudio Desarrollo Web en [Coursera](https://www.coursera.org/learn/disenando-paginas-bootstrap4)** e **Ingles C1 en [Dexway](https://telefonica.dexway.com/)**.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillermopereyralucero&label=Profile%20views&color=0e75b6&style=flat" alt="guillermopereyralucero" /> </p>
 
 - 🔭 I’m currently working on [Python automations](https://github.com/guillermopereyralucero/Automations)
