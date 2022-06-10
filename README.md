@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo Pereyra Lucero</h1>
 <h3 align="center">A Python and SQL developer from Argentina</h3>
 
-[<img src="https://media-exp1.licdn.com/dms/image/C4D16AQG_ehXvHIQZRA/profile-displaybackgroundimage-shrink_200_800/0/1644285999927?e=1649894400&v=beta&t=SgbwpOYzZC2fgGNzr9bTBZBdhe054Ug6cnRfc63nfJA" width="1000"/>](https://www.linkedin.com/in/guillermo-pereyra)
+[<img src="[https://media-exp1.licdn.com/dms/image/C4D16AQG_ehXvHIQZRA/profile-displaybackgroundimage-shrink_200_800/0/1644285999927?e=1649894400&v=beta&t=SgbwpOYzZC2fgGNzr9bTBZBdhe054Ug6cnRfc63nfJA](https://media-exp2.licdn.com/dms/image/C4D16AQG_ehXvHIQZRA/profile-displaybackgroundimage-shrink_350_1400/0/1644285999927?e=1660176000&v=beta&t=2djX3sFs6zpH04i5EaNdnLJBc3MYqnOAR0c6AENOCcU" width="1000"/>](https://www.linkedin.com/in/guillermo-pereyra)
 
 ## 👉 Sobre mí
 Soy **Desarrollador de Python y SQL en [Telefónica](https://www.telefonica.com/)** y **Administrador de sistemas TI en la empresa [Hierros Casanova](https://www.hierroscasanova.com.ar)**.
