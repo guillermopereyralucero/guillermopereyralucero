@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Guillermo Pereyra Lucero</h1>
-<h3 align="center">A Python and SQL developer from Argentina</h3>
 
-[<img src="https://media-exp2.licdn.com/dms/image/C4D16AQG_ehXvHIQZRA/profile-displaybackgroundimage-shrink_350_1400/0/1644285999927?e=1660176000&v=beta&t=2djX3sFs6zpH04i5EaNdnLJBc3MYqnOAR0c6AENOCcU" width="1000"/>](https://www.linkedin.com/in/guillermo-pereyra)
+<center><a href="https://www.linkedin.com/in/guillermo-pereyra" target="blank">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHAE5hVcQl9TQ/profile-displayphoto-shrink_800_800/0/1588784388838?e=1672876800&v=beta&t=R9ttlzCh5Y2Anv_zzl8iKwJjHXlMC3vnACOkvpmSv-U" alt="Foto de Guillermo Pereyra Lucero" width="200"/>
+</a></center>
 
-## 👉 Sobre mí
-Soy **Desarrollador de Python y SQL en [Telefónica](https://www.telefonica.com/)** y **Administrador de sistemas TI en la empresa [Hierros Casanova](https://www.hierroscasanova.com.ar)**.
-Al mismo tiempo **estudio Desarrollo Web en [Coursera](https://www.coursera.org/learn/disenando-paginas-bootstrap4)** e **Ingles C1 en [Dexway](https://telefonica.dexway.com/)**.
+<h3 align="center">A SQL, Python and Web developer from Argentina</h3>
+
+[<img src="https://media-exp1.licdn.com/dms/image/C4D16AQG_ehXvHIQZRA/profile-displaybackgroundimage-shrink_350_1400/0/1644285999927?e=1672876800&v=beta&t=keFoQ8VYcmluwj7knthu2V18qkSoe2jvdVuX0x1wjwY" width="1000"/>](https://www.linkedin.com/in/guillermo-pereyra)
+
+## 👉 About me
+I'm a **SQL, Python and Web developer** at **[Hierros Casanova](https://www.hierroscasanova.com.ar)**, with over 7 years of experience working at **[Telefónica](https://www.telefonica.com/)**.
+Also i'm **learning Fullstack Web Development at [UTN](https://site.elearning-total.com/)** and **English C1 at [Dexway](https://telefonica.dexway.com/)**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillermopereyralucero&label=Profile%20views&color=0e75b6&style=flat" alt="guillermopereyralucero" /> </p>
 
