@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Guillermo Pereyra Lucero</h1>
 
 <center><a href="https://www.linkedin.com/in/guillermo-pereyra" target="blank">
-  <img style="border-radius: 60 px" src="https://media-exp1.licdn.com/dms/image/C4D03AQHAE5hVcQl9TQ/profile-displayphoto-shrink_800_800/0/1588784388838?e=1672876800&v=beta&t=R9ttlzCh5Y2Anv_zzl8iKwJjHXlMC3vnACOkvpmSv-U" alt="Foto de Guillermo Pereyra Lucero" width="200"/>
+  <img style="border-radius: 60 px" src="https://media.licdn.com/dms/image/C4D16AQG_ehXvHIQZRA/profile-displaybackgroundimage-shrink_350_1400/0/1644285999927?e=1701907200&v=beta&t=KmYQfLvWSie773D6s_smZ-iipfumaRNIKGBjNHT2gqI" alt="Foto de Guillermo Pereyra Lucero" width="1200"/>
 </a></center>
 
 
 <h3 align="center">A SQL, Python and Web developer</h3>
 
-[<img src="https://media-exp1.licdn.com/dms/image/C4D16AQG_ehXvHIQZRA/profile-displaybackgroundimage-shrink_350_1400/0/1644285999927?e=1672876800&v=beta&t=keFoQ8VYcmluwj7knthu2V18qkSoe2jvdVuX0x1wjwY" width="1000"/>](https://www.linkedin.com/in/guillermo-pereyra)
+[<h3 align="center"><img src="https://github.com/guillermopereyralucero/Personal/blob/main/FotoGuillermoPereyra.jpg?raw=true" width="200"/></h3>](https://www.linkedin.com/in/guillermo-pereyra)
 
 ## 👉 About me
-I'm a **SQL, Python and Web developer** at **[Hierros Casanova](https://www.hierroscasanova.com.ar)**, with over 7 years of experience working at **[Telefónica](https://www.telefonica.com/)**.
-Also i'm **learning Fullstack Web Development at [UTN](https://site.elearning-total.com/)** and **English C1 at [Dexway](https://telefonica.dexway.com/)**.
+I'm a **SQL, Python and Web developer** working as Administrator and Developer at **[Moretecno](https://moretecno.es)**, with over 2 years of experience working at **[Hierros Casanova](https://www.hierroscasanova.com.ar)** and over 7 years of experience working at **[Telefónica](https://www.telefonica.com/)**.
+I have also completed my studies as **Fullstack Web Development at [UTN](https://site.elearning-total.com/)** and **English C1 at [Dexway](https://telefonica.dexway.com/)**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillermopereyralucero&label=Profile%20views&color=0e75b6&style=flat" alt="guillermopereyralucero" /> </p>
 
