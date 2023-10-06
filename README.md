@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guillermo Pereyra Lucero</h1>
 
 <center><a href="https://www.linkedin.com/in/guillermo-pereyra" target="blank">
-  <img style="border-radius: 60px" src="https://media-exp1.licdn.com/dms/image/C4D03AQHAE5hVcQl9TQ/profile-displayphoto-shrink_800_800/0/1588784388838?e=1672876800&v=beta&t=R9ttlzCh5Y2Anv_zzl8iKwJjHXlMC3vnACOkvpmSv-U" alt="Foto de Guillermo Pereyra Lucero" width="200"/>
+  <img style="border-radius: 60 px" src="https://media-exp1.licdn.com/dms/image/C4D03AQHAE5hVcQl9TQ/profile-displayphoto-shrink_800_800/0/1588784388838?e=1672876800&v=beta&t=R9ttlzCh5Y2Anv_zzl8iKwJjHXlMC3vnACOkvpmSv-U" alt="Foto de Guillermo Pereyra Lucero" width="200"/>
 </a></center>
 
 
-<h3 align="center">A SQL, Python and Web developer from Argentina</h3>
+<h3 align="center">A SQL, Python and Web developer</h3>
 
 [<img src="https://media-exp1.licdn.com/dms/image/C4D16AQG_ehXvHIQZRA/profile-displaybackgroundimage-shrink_350_1400/0/1644285999927?e=1672876800&v=beta&t=keFoQ8VYcmluwj7knthu2V18qkSoe2jvdVuX0x1wjwY" width="1000"/>](https://www.linkedin.com/in/guillermo-pereyra)
 
