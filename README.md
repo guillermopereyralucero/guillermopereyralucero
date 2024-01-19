@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo Pereyra Lucero</h1>
 
 <center><a href="https://www.linkedin.com/in/guillermo-pereyra" target="blank">
-  <img style="border-radius: 60 px" src="https://media.licdn.com/dms/image/C4D16AQG_ehXvHIQZRA/profile-displaybackgroundimage-shrink_350_1400/0/1644285999927?e=1701907200&v=beta&t=KmYQfLvWSie773D6s_smZ-iipfumaRNIKGBjNHT2gqI" alt="Foto de Guillermo Pereyra Lucero" width="1200"/>
+  <img style="border-radius: 60 px" src="https://raw.githubusercontent.com/guillermopereyralucero/Personal/main/BG-LI.jpg" alt="Foto de Guillermo Pereyra Lucero" width="1200"/>
 </a></center>
 
 
