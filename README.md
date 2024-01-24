@@ -17,11 +17,11 @@ I have also completed my studies as **Fullstack Web Development at [UTN](https:/
 
 - 🔭 I’m currently working on [Python automations](https://github.com/guillermopereyralucero/Automations)
 
-- 🌱 I’m currently learning **Fullstack development and English (Dexway C1).**
+- 🌱 I’m currently learning **Fullstack development and Software Engineering.**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
-- 🤝 I’m looking for help with [Fullstack development](https://hierroscasanova.com.ar/)
+- 🤝 I’m looking for help with [Fullstack development](https://hierroscasanova.com.ar/) and **Python development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/guillermopereyralucero/](https://github.com/guillermopereyralucero/)
 
