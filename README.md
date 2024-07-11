@@ -15,13 +15,13 @@ I have also completed my studies as **Fullstack Web Development at [UTN](https:/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillermopereyralucero&label=Profile%20views&color=0e75b6&style=flat" alt="guillermopereyralucero" /> </p>
 
-- 🔭 I’m currently working on [Python automations](https://github.com/guillermopereyralucero/Automations)
+- 🔭 I’m currently working on [SQL DBA and Python automations](https://github.com/guillermopereyralucero/Automations)
 
-- 🌱 I’m currently learning **Fullstack development and Software Engineering.**
+- 🌱 I’m currently learning **Azure SQL and Software Engineering.**
 
-- 👯 I’m looking to collaborate on **Python projects**
+- 👯 I’m looking to collaborate on **Azure projects**
 
-- 🤝 I’m looking for help with [Fullstack development](https://hierroscasanova.com.ar/) and **Python development.**
+- 🤝 I’m looking for help with [Azure development](https://www.linkedin.com/in/guillermo-pereyra/) and **SQL development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/guillermopereyralucero/](https://github.com/guillermopereyralucero/)
 
