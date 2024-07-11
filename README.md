@@ -10,7 +10,7 @@
 [<h3 align="center"><img src="https://github.com/guillermopereyralucero/Personal/blob/main/FotoGuillermoPereyra.jpg?raw=true" width="200"/></h3>](https://www.linkedin.com/in/guillermo-pereyra)
 
 ## 👉 About me
-I'm a **SQL, Python and Web developer** working as Administrator and Developer at **[Moretecno](https://moretecno.es)**, with over 2 years of experience working at **[Hierros Casanova](https://www.hierroscasanova.com.ar)** and over 7 years of experience working at **[Telefónica](https://www.telefonica.com/)**.
+I'm a **SQL DBA, Python and Web developer** working as DBA at **[ALTEN Spain](https://alten.es)** after having worked at **[Moretecno](https://moretecno.es)**, with over 3 years of experience working at **[Hierros Casanova](https://www.hierroscasanova.com.ar)** and over 7 years of experience working at **[Telefónica](https://www.telefonica.com/)**.
 I have also completed my studies as **Fullstack Web Development at [UTN](https://site.elearning-total.com/)** and **English C1 at [Dexway](https://telefonica.dexway.com/)**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillermopereyralucero&label=Profile%20views&color=0e75b6&style=flat" alt="guillermopereyralucero" /> </p>
