@@ -5,7 +5,7 @@
 </a></center>
 
 
-<h3 align="center">A SQL, Python and Web developer</h3>
+<h3 align="center">A Data Engineer, developer and automator</h3>
 
 [<h3 align="center"><img src="https://github.com/guillermopereyralucero/Personal/blob/main/FotoGuillermoPereyra.jpg?raw=true" width="200"/></h3>](https://www.linkedin.com/in/guillermo-pereyra)
 
